@@ -1,1 +1,14 @@
 a component is either a function or a class.
+
+BABEL => Compiler
+BABEL is a dependency that takes JSX and converts it down to ES5 so it's able to be understood.
+
+when you return jsx the opening line  has to be to the right of the return statement or else use parenthesis <= normal convention
+
+
+double quotes to indicate string
+single quotes for any non-string JSX convention.
+
+className is the same as class in html. It's used to avoid collision with class declaration (class App extends React.component)
+
+JSX CAN VERY EASILY REFERENCE JAVASCRIPT VARIABLES
